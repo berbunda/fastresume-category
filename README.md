@@ -16,3 +16,4 @@
 4. 安装模块"pip安装bencode.py `我不知道哪一个有效。
 5. 使用方法 ```fastresume-category.py C:\BT_backup C:\new_dir```
  ---
+Простите меня / Forgive me / 原谅我
